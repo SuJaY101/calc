@@ -10,7 +10,7 @@ print(timestamp)
 
 timestamp= time.strftime('%S')
 print(timestamp)
-if(timestamp > 12):
+if(timestamp > 15):
     print("Good DAY")
 else:
     PRINT("HELLO")
